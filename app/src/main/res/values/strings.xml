@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidSignature</string>
+
+    <!-- buttons -->
+    <string name="button.clear">Clear</string>
+    <string name="button.save">Save</string>
+
+    <!-- messages -->
+    <string name="message.saved">Signature has been successfully saved in downloads folder.</string>
+    <string name="message.error">An error has occurred.</string>
+</resources>
